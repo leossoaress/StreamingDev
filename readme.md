@@ -16,7 +16,7 @@ G++ or compatible installed.
 FFMPEG API
 ```
 
-To install FFMPEG API on ubuntu 16.04:
+To install FFMPEG API in ubuntu 16.04:
 
 ```
 sudo add-apt-repository ppa:jonathonf/ffmpeg-3
@@ -50,4 +50,4 @@ And next:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
